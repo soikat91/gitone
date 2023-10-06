@@ -1,13 +1,5 @@
 two
 2
 2
-2
-<<<<<<< HEAD
+2f
 two
-=======
-<<<<<<< HEAD
-dui
-=======
-two
->>>>>>> development
->>>>>>> staging
