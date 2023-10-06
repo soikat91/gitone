@@ -2,4 +2,12 @@ two
 2
 2
 2
+<<<<<<< HEAD
 two
+=======
+<<<<<<< HEAD
+dui
+=======
+two
+>>>>>>> development
+>>>>>>> staging
